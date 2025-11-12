@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         MutationCounter
+// @name         MinigameSummaryTooltips
 // @namespace    https://github.com/stellar-demesne/Trimps-MinigameSummaryTooltips
 // @version      1.0
 // @updateURL    https://github.com/stellar-demesne/Trimps-MinigameSummaryTooltips/SMinigameTooltips.user.js
